@@ -1,32 +1,10 @@
 # monad-play
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Working through ["You could have invented Monads"](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html) and implementing it in clojure.  
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar monad-play-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ lein run
 
 ## License
 
